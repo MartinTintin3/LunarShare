@@ -1,2 +1,2 @@
-# Lunar Share
-A program that exports your Luner Client settings
+# LunarShare
+A program that exports your Lunar Client settings
